@@ -11,20 +11,29 @@
 </p>
 
 <p align="center">
-Building reliable backend systems with clean architecture and scalable solutions.
+  Building reliable backend systems with clean architecture and scalable solutions.
 </p>
 
 <h2 align="center">🚀 About Me</h2>
 
 <img align="right" src="./assets/developer.jpeg" width="280" alt="Developer Illustration"/>
 
-**Debayan**, here — a software engineer focused on backend development and AI products.
+Hi, I'm **Debayan** 👋 — a software engineer who loves backend development and building AI-powered products.
 
-I enjoy building scalable, production-ready systems and continuously improving how they retrieve, reason, and respond.
+I'm drawn to the part of software that happens behind the scenes: well-structured APIs, dependable data pipelines, and systems that stay fast and maintainable as they grow.
 
-Currently, I'm building tools around retrieval, document Q&A, and productivity, while sharpening my problem-solving skills through real projects.
+### 🔭 What I'm working on
+I'm currently building **[Cortex](https://github.com/d3byn/Cortex)**, a document intelligence platform that lets you ask questions over your own documents. It combines hybrid retrieval (semantic + keyword search), reranking, and LLM-powered answers, all served through a FastAPI backend.
 
-My goal is simple: write clean code, build reliable software, and grow into a software engineer who creates systems that last.
+### 🌱 What I'm learning
+- Retrieval-augmented generation (RAG) and how to make it more accurate
+- Building agent-style pipelines with LangGraph
+- Designing backend services that are clean, tested, and production-ready
+
+### 🎯 My goal
+To write clean code, ship reliable software, and grow into an engineer who builds systems that last.
+
+I'm always happy to chat about backend engineering, AI products, or interesting ideas, so feel free to reach out! 🤝
 
 <br clear="right"/>
 
@@ -34,35 +43,31 @@ My goal is simple: write clean code, build reliable software, and grow into a so
   <a href="https://github.com/d3byn">
     <img src="https://skillicons.dev/icons?i=github" height="45" />
   </a>
+  <a href="[https://github.com/d3byn](https://www.linkedin.com/in/d3bayansarkar/?isSelfProfile=true)">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
 </p>
 
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=nextdotjs&logoColor=black" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk" />
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Neon-34D59A?style=for-the-badge&logo=neon&logoColor=black" alt="Neon" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-  <img src="https://img.shields.io/badge/FAISS-4267B2?style=for-the-badge&logoColor=white" alt="FAISS" />
-  <img src="https://img.shields.io/badge/BM25-5C6BC0?style=for-the-badge&logoColor=white" alt="BM25" />
-  <img src="https://img.shields.io/badge/RAG-7E57C2?style=for-the-badge&logoColor=white" alt="RAG" />
-  <img src="https://img.shields.io/badge/Liveblocks-E5E5E5?style=for-the-badge&logoColor=black" alt="Liveblocks" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/typescript.svg" height="45" alt="TypeScript" style="margin: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/javascript.svg" height="45" alt="JavaScript" style="margin: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/python.svg" height="45" alt="Python" style="margin: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/java.svg" height="45" alt="Java" style="margin: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nextjs.svg" height="45" alt="Next.js" style="margin: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/reactjs.svg" height="45" alt="React" style="margin: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/fastapi.svg" height="45" alt="FastAPI" style="margin: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/postgresql.svg" height="45" alt="PostgreSQL" style="margin: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mysql.svg" height="45" alt="MySQL" style="margin: 3px;" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="45" alt="Tailwind CSS" style="margin: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/docker.svg" height="45" alt="Docker" style="margin: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" height="45" alt="Git" style="margin: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg" height="45" alt="GitHub" style="margin: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/firebase.svg" height="45" alt="Firebase" style="margin: 3px;" />
+  <img src="https://cdn.simpleicons.org/neon/34D59A" height="45" alt="Neon" style="margin: 3px;" />
+  <img src="https://cdn.simpleicons.org/clerk/6C47FF" height="45" alt="Clerk" style="margin: 3px;" />
+  <img src="https://cdn.simpleicons.org/langgraph/7FC8FF" height="45" alt="LangGraph" style="margin: 3px;" />
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
