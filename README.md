@@ -58,7 +58,7 @@ I'm always open to discussing backend engineering, AI products, and new ideas. F
   <a href="https://www.linkedin.com/in/d3bayansarkar/?isSelfProfile=true">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
-  <a href="d3bayansarkar@gmail.com">
+  <a href="mailto:d3bayansarkar@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
 </p>
