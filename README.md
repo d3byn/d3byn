@@ -18,22 +18,34 @@
 
 <img align="right" src="./assets/developer.jpeg" width="280" alt="Developer Illustration"/>
 
-Hi, I'm **Debayan** 👋 — a software engineer who loves backend development and building AI-powered products.
+Hi, I'm **Debayan** 👋, a software engineer with a strong inclination towards **backend development**, currently expanding my skills in **AI/ML**.
 
-I'm drawn to the part of software that happens behind the scenes: well-structured APIs, dependable data pipelines, and systems that stay fast and maintainable as they grow.
+My core interest lies in designing well-structured APIs, dependable data pipelines, and scalable systems that remain maintainable as they grow. Alongside this, I'm actively learning AI/ML and applying it to practical, real-world products.
 
-### 🔭 What I'm working on
-I'm currently building **[Cortex](https://github.com/d3byn/Cortex)**, a document intelligence platform that lets you ask questions over your own documents. It combines hybrid retrieval (semantic + keyword search), reranking, and LLM-powered answers, all served through a FastAPI backend.
+### 🔭 Currently Working On
 
-### 🌱 What I'm learning
-- Retrieval-augmented generation (RAG) and how to make it more accurate
-- Building agent-style pipelines with LangGraph
-- Designing backend services that are clean, tested, and production-ready
+**[Cortex](https://github.com/d3byn/Cortex)**: a document intelligence platform for question answering over custom documents.
 
-### 🎯 My goal
-To write clean code, ship reliable software, and grow into an engineer who builds systems that last.
+- Hybrid retrieval combining semantic and keyword search
+- Cross-encoder reranking for more relevant results
+- LLM-powered answer generation
+- FastAPI backend with a Streamlit frontend
 
-I'm always happy to chat about backend engineering, AI products, or interesting ideas, so feel free to reach out! 🤝
+### 🌱 Currently Learning
+
+- **AI/ML fundamentals** and their practical application
+- **Retrieval-Augmented Generation (RAG)** and techniques to improve accuracy
+- **LangGraph** for building structured, agent-style pipelines
+- **Backend engineering practices**: clean architecture, testing, and production readiness
+
+### 🎯 Goal
+
+To write clean code, build reliable software, and grow into a backend engineer who creates systems that last, with AI as a strong complementary skill.
+
+
+### 🤝 Let's Connect
+
+I'm always open to discussing backend engineering, AI products, and new ideas. Feel free to reach out!
 
 <br clear="right"/>
 
@@ -43,8 +55,11 @@ I'm always happy to chat about backend engineering, AI products, or interesting 
   <a href="https://github.com/d3byn">
     <img src="https://skillicons.dev/icons?i=github" height="45" />
   </a>
-  <a href="[https://github.com/d3byn](https://www.linkedin.com/in/d3bayansarkar/?isSelfProfile=true)">
+  <a href="https://www.linkedin.com/in/d3bayansarkar/?isSelfProfile=true">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  <a href="d3bayansarkar@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
 </p>
 
