@@ -1,4 +1,8 @@
 
+<!--
+  Profile README for github.com/d3byn
+  Portfolio site lives in /portfolio (Next.js). Run: cd portfolio && npm install && npm run dev
+-->
 
 <h1 align="center">Hi 👋, I'm Debayan</h1>
 
