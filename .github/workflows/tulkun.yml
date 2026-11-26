@@ -1,0 +1,47 @@
+name: Update Tulkun
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  tulkun:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      # commit must stay false. The action's default force-pushes an orphan
+      # branch named output, which is the branch Pac-Man already uses, and
+      # GitHub then shows "ahead / behind" plus Compare & pull request.
+      - name: Generate Tulkun
+        uses: PramudithaN/git-tulkun@v1
+        with:
+          view: side
+          window: annual
+          commit: "false"
+          output-dir: tulkun
+
+      - name: Publish Tulkun as a tag
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          work="$(mktemp -d)"
+          cp tulkun/tulkun.gif tulkun/tulkun.png tulkun/share-card.png "$work/"
+          cd "$work"
+          git init -q
+          git checkout -q --orphan publish
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "Update Tulkun"
+          git tag -f tulkun
+          git remote add origin "https://github.com/${GITHUB_REPOSITORY}.git"
+          auth="$(printf 'x-access-token:%s' "$GITHUB_TOKEN" | base64 -w0)"
+          git config http.https://github.com/.extraheader "AUTHORIZATION: basic ${auth}"
+          git push -f origin refs/tags/tulkun

@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/PramudithaN/git-tulkun">
-    <img src="https://raw.githubusercontent.com/d3byn/d3byn/output/tulkun/tulkun.gif" width="640" alt="git-tulkun swimming" />
+    <img src="https://raw.githubusercontent.com/d3byn/d3byn/tulkun/tulkun.gif" width="640" alt="git-tulkun swimming" />
   </a>
 </p>
 
