@@ -9,12 +9,6 @@
 <h3 align="center">Software Engineer</h3>
 
 <p align="center">
-  <a href="https://github.com/PramudithaN/git-tulkun">
-    <img src="https://raw.githubusercontent.com/d3byn/d3byn/tulkun/tulkun.gif" width="640" alt="git-tulkun swimming" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Start+Debugging+The+Chaos;%3E+Code+Like+A+Menace;+%3E+If+It+Compiles%2C+It's++Staying;Just+Code" alt="Typing SVG" />
 </p>
 
@@ -22,11 +16,17 @@
   Building reliable backend systems with clean architecture and scalable solutions.
 </p>
 
-<h2 align="center">🚀 About Me</h2>
+<p align="center">
+  <a href="https://github.com/PramudithaN/git-tulkun">
+    <img src="https://raw.githubusercontent.com/d3byn/d3byn/tulkun/tulkun.gif" width="640" alt="git-tulkun swimming" />
+  </a>
+</p>
+
+<h2 align="center">About Me</h2>
 
 <img align="right" src="./assets/developer.jpeg" width="280" alt="Developer Illustration"/>
 
-Hi, I'm **Debayan** 👋, a software engineer with a strong inclination towards **backend development**, currently expanding my skills in **AI/ML**.
+Hi, I'm **Debayan** , a software engineer with a strong inclination towards **backend development**, currently expanding my skills in **AI/ML**.
 
 My core interest lies in designing well-structured APIs, dependable data pipelines, and scalable systems that remain maintainable as they grow. Alongside this, I'm actively learning AI/ML and applying it to practical, real-world products.
 
@@ -39,7 +39,7 @@ My core interest lies in designing well-structured APIs, dependable data pipelin
 - LLM-powered answer generation
 - FastAPI backend with a Streamlit frontend
 
-### 🌱 Currently Learning
+### Currently Learning
 
 - **AI/ML fundamentals** and their practical application
 - **Retrieval-Augmented Generation (RAG)** and techniques to improve accuracy
@@ -51,7 +51,7 @@ My core interest lies in designing well-structured APIs, dependable data pipelin
 To write clean code, build reliable software, and grow into a backend engineer who creates systems that last, with AI as a strong complementary skill.
 
 
-### 🤝 Let's Connect
+### Let's Connect
 
 I'm always open to discussing backend engineering, AI products, and new ideas. Feel free to reach out!
 
@@ -93,7 +93,7 @@ I'm always open to discussing backend engineering, AI products, and new ideas. F
   <img src="https://cdn.simpleicons.org/langgraph/7FC8FF" height="45" alt="LangGraph" style="margin: 3px;" />
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
 
