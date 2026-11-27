@@ -30,7 +30,7 @@ Hi, I'm **Debayan** , a software engineer with a strong inclination towards **ba
 
 My core interest lies in designing well-structured APIs, dependable data pipelines, and scalable systems that remain maintainable as they grow. Alongside this, I'm actively learning AI/ML and applying it to practical, real-world products.
 
-### 🔭 Currently Working On
+### Currently Working On
 
 **[Cortex](https://github.com/d3byn/Cortex)**: a document intelligence platform for question answering over custom documents.
 
@@ -46,7 +46,7 @@ My core interest lies in designing well-structured APIs, dependable data pipelin
 - **LangGraph** for building structured, agent-style pipelines
 - **Backend engineering practices**: clean architecture, testing, and production readiness
 
-### 🎯 Goal
+### Goal
 
 To write clean code, build reliable software, and grow into a backend engineer who creates systems that last, with AI as a strong complementary skill.
 
@@ -71,7 +71,7 @@ I'm always open to discussing backend engineering, AI products, and new ideas. F
   </a>
 </p>
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/typescript.svg" height="45" alt="TypeScript" style="margin: 3px;" />
